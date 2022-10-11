@@ -1,0 +1,25 @@
+# Output functions
+print('Hello World')
+
+# Input function
+input('Say Hello:')
+
+# Variables
+my_name = 'Isabela'
+print(my_name)
+
+my_number = 1000_000
+print(my_number)
+
+.
+
+
+
+
+
+
+
+
+
+
+
