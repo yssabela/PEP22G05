@@ -70,9 +70,12 @@ else:
 # 2
 
 sir = input('Introduceti un sir :')
-result = sir.upper()
+result1 = sir.capitalize()
+result2 = sir.upper()
 
-if sir == result:
+if sir == result1:
+    print('Sirul incepe cu o majuscula: ', True)
+elif sir == result2:
     print('Sirul incepe cu o majuscula: ', True)
 else:
     print('Sirul nu incepe cu o majuscula: ', False)
