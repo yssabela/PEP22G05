@@ -40,8 +40,7 @@ my_list.__iter__()
 
 for obj in my_list:
     print(obj)
-
-# informatii pierdute- de continuat
+    
 
 # modifying object
 
